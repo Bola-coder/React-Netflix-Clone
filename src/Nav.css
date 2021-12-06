@@ -6,7 +6,7 @@
   display: flex;
   justify-content: space-between;
   padding: 8px 20px;
-  transition: all 0.7s;
+  transition: all 0.5s;
 }
 
 .nav--show {
